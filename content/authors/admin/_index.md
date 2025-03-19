@@ -149,7 +149,8 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: IBM Digital Nation Web Development (2024 - 2024)
+  - title: IBM Digital Nation Web Development
+    date: '2020'
     awarder: IBM
     icon: ibm
   - title: AWS and React: Creating Full-Stack Apps
