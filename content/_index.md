@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://fiifinketia.tiiny.site/
     design:
       css_class: dark
       background:
@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a research student in the HCI team at the University of Ghana, and my mission is to empower Akan speakers with speech impairments through innovative technology. I'm developing a speech-to-speech system that helps people communicate clearly and naturally, breaking down communication barriers and fostering greater inclusion. 
         
-        Please reach out to collaborate 😃
+        My work blends machine learning, deep learning, and advanced speech processing to tackle real-world challenges, and I share my insights on these topics through my blog.
+        
+        I combine both qualitative and quantitative methods to explore how science and technology can drive economic and social progress. If you're passionate about using tech to make a difference, I'd love to connect and collaborate.
+        
+        Feel free to reach out!
     design:
       columns: '1'
   - block: collection

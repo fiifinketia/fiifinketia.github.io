@@ -11,7 +11,7 @@ last_name: Nketia-Achiampong
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤓
 
 # Is this the primary user of the site?
 superuser: true
@@ -111,30 +111,73 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: Data Analysis
+        description: ''
+        percent: 60
+        icon: chart-line
+
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 100
+        icon: python
+
+      - name: NodeJS
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: node-js
+
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+        icon: database
+
+      - name: LangChain
+        description: ''
+        percent: 50
+        icon: chain
+
+      - name: Javascript
+        description: ''
+        percent: 100
+        icon: js
+
+      - name: Tensorflow
+        description: ''
+        percent: 90
+        icon: tensorflow
+
+      - name: PyTorch
+        description: ''
+        percent: 90
+        icon: pytorch
+
+      - name: Data Structures & Algorithms
+        description: ''
+        percent: 85
+        icon: algorithm
+
+      - name: Computer Vision
+        description: ''
+        percent: 80
+        icon: image
+
+      - name: Speech Processing
+        description: ''
+        percent: 85
+        icon: microphone
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Biking
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: bike
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
       - name: Photography
         description: ''
         percent: 80
@@ -150,13 +193,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: IBM Digital Nation Web Development
-    date: 2020-05-01
+    date: 2020-13-05
     awarder: IBM
+    certificate_url: https://www.credly.com/badges/eed8a5d4-fcbc-42d7-af74-4bc4af96e987
   - title: AWS and React Creating Full-Stack Apps
-    date: 2020-07-01
+    date: 2020-21-07
     awarder: LinkedIn
   - title: 'Software Development Life Cycle (SDLC)'
-    date: 2020-11-01
+    date: 2020-21-11
     awarder: LinkedIn
 ---
 
