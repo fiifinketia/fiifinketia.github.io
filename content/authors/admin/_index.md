@@ -3,7 +3,7 @@
 title: Fiifi
 
 # Name pronunciation (optional)
-name_pronunciation: Kelvin (Fiifi), Nketia-Achiampong
+name_pronunciation: Fiifi
 
 # Full name (for SEO)
 first_name: Kelvin
