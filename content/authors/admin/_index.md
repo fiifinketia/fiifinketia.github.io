@@ -77,7 +77,7 @@ work:
     company_name: Data Intelligence and Swarm Analytics Laboratory 
     company_url: ''
     company_logo: ''
-    date_start: 2023-09
+    date_start: 2023-09-01
     date_end: ''
     summary: |
       Responsibilities include:
@@ -89,8 +89,8 @@ work:
     company_name: WiV Technologies 
     company_url: https://wiv.io
     company_logo: ''
-    date_start: 2022-04
-    date_end: 2023-08
+    date_start: 2022-04-01
+    date_end: 2023-08-01
     summary: |
       Responsibilities include:
       - Led the integration of Web3 and EthersJS, securing over $2M worth of Ethereum transactions by enabling secure, transparent interactions with blockchain.
@@ -100,8 +100,8 @@ work:
     company_name: Chatdaddy 
     company_url: https://chatdaddy.tech
     company_logo: ''
-    date_start: 2020-08
-    date_end: 2022-02
+    date_start: 2020-08-01
+    date_end: 2022-02-01
     summary: |
       Responsibilities include:
       - Modernized legacy NodeJs/TypeScript architecture to a serverless framework, improving scalability and reducing operational costs by 20%.
