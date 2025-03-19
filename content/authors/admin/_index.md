@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/fiifinketia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/fiifi-nketia
+    url: https://www.linkedin.com/in/fiifinketia
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
