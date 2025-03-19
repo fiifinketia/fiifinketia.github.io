@@ -152,7 +152,7 @@ awards:
   - title: IBM Digital Nation Web Development
     date: 2020
     awarder: IBM
-  - title: AWS and React: Creating Full-Stack Apps
+  - title: AWS and React Creating Full-Stack Apps
     date: '2020'
     awarder: LinkedIn
     icon: linkedin
