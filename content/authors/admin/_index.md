@@ -62,7 +62,7 @@ education:
       - Machine Learning with Big Data Analytics
       - Advanced Software Engineering
       - Advanced Computer Vision
-  - area: BSc Computer Sc 
+  - area: BSc Computer Science
     institution: University of Ghana
     date_start: 2019
     date_end: 2023
