@@ -96,7 +96,7 @@ work:
       - Led the integration of Web3 and EthersJS, securing over $2M worth of Ethereum transactions by enabling secure, transparent interactions with blockchain.
       - Optimized user experience by developing responsive web pages in Vue.js, leading to a 30% increase in user retention across mobile devices.
       - Developed a wine recommendation model based on user interactions and wallet holdings, driving a 25% increase in user engagement on the platform
-- position: Software Engineer
+  - position: Software Engineer
     company_name: Chatdaddy 
     company_url: https://chatdaddy.tech
     company_logo: ''
