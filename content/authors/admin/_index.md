@@ -152,15 +152,12 @@ awards:
   - title: IBM Digital Nation Web Development
     date: 2020
     awarder: IBM
-    icon: ibm
   - title: AWS and React Creating Full-Stack Apps
     date: '2020'
     awarder: LinkedIn
-    icon: linkedin
   - title: 'Software Development Life Cycle (SDLC)'
     date: '2020'
     awarder: LinkedIn
-    icon: linkedin
 ---
 
 ## About Me
