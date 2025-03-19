@@ -1,5 +1,5 @@
 ---
-title: Machine 
+title: Web3 Wine Marketplace 
 date: 2022-10-26
 external_link: https://github.com/fiifinketia/web3-wine-marketplace
 tags:

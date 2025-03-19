@@ -1,5 +1,5 @@
 ---
-title: Machine 
+title: Machine Learning Laboratory
 date: 2024-10-26
 external_link: https://github.com/fiifinketia/machine-learning-laboratory
 tags:
