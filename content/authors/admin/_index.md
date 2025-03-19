@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fiifi
+title: Kelvin Nketia-Achiampong
 
 # Name pronunciation (optional)
 name_pronunciation: Fiifi
