@@ -87,27 +87,25 @@ work:
       - Configured Docker containers for engineers, enabling efficient use of system resources including GPUs for model training to reduce runtime errors cause by the environment by 40% and operational cost by over 50%.
   - position: Software Engineer
     company_name: WiV Technologies 
-    company_url: wiv.io
+    company_url: https://wiv.io
     company_logo: ''
     date_start: 2022-04
     date_end: 2023-08
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Led the integration of Web3 and EthersJS, securing over $2M worth of Ethereum transactions by enabling secure, transparent interactions with blockchain.
       - Optimized user experience by developing responsive web pages in Vue.js, leading to a 30% increase in user retention across mobile devices.
       - Developed a wine recommendation model based on user interactions and wallet holdings, driving a 25% increase in user engagement on the platform
 - position: Software Engineer
     company_name: Chatdaddy 
-    company_url: chatdaddy.tech
+    company_url: https://chatdaddy.tech
     company_logo: ''
     date_start: 2020-08
     date_end: 2022-02
-    summary: |3-
+    summary: |
       Responsibilities include:
       - Modernized legacy NodeJs/TypeScript architecture to a serverless framework, improving scalability and reducing operational costs by 20%.
       - Integrated various eCommerce platforms into the product, empowering over 150 businesses to track and manage online stores, increasing platform adoption by 25%.
-
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
