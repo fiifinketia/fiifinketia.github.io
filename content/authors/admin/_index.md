@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Fiifi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kelvin (Fiifi), Nketia-Achiampong
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kelvin
+last_name: Nketia-Achiampong
 
 # Status emoji
 status:
@@ -20,81 +20,73 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: DISAL
+    url: #
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kelvin@bytlabs.tech'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/fiifinketia
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/fiifinketia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/fiifi-nketia
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence & Machine Learning
+  - Software Engineering
+  - Data Science
+  - Academic Research
+  - Chatbots & Automation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Masters of Science in Computer Science
+    institution: University of Ghana
+    date_start: 2024
+    date_end: 2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Algorithms and Data Structures
+      - Machine Learning with Big Data Analytics
+      - Advanced Software Engineering
+      - Advanced Computer Vision
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
+    summary: |      
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithms and Data Structures
+      - Statistical Modeling For Data Analysis
+      - Software Engineering
+      - Computer Vision
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Software Engineer - Full Stack
     company_name: GenCoin
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      Developed a Python FastAPI backend, improving system performance by handling 10+ requests per second per client, leveraging asynchronous capabilities and an optimized RESTful API design to ensure efficient and scalable service delivery.
+      
+      Developed a chatbot to assist students and staff with inquiries on graduation status and grades, increasing response efficiency by 80%.
+      
+      Implemented machine learning research projects using Python libraries (Pandas, Numpy, Matplotlib, Tensorflow, Pytorch) to streamline academic research processes.
+      
+      Configured Docker containers for engineers, enabling efficient use of system resources like GPUs for model training to reduce runtime errors cause by the environment by 40% and operational cost by over 50%.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
