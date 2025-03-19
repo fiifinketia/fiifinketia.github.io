@@ -193,14 +193,14 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: IBM Digital Nation Web Development
-    date: 2020-13-05
+    date: '2020-04-05'
     awarder: IBM
     certificate_url: https://www.credly.com/badges/eed8a5d4-fcbc-42d7-af74-4bc4af96e987
   - title: AWS and React Creating Full-Stack Apps
-    date: 2020-21-07
+    date: 2020-07-07
     awarder: LinkedIn
   - title: 'Software Development Life Cycle (SDLC)'
-    date: 2020-21-11
+    date: 2020-11-11
     awarder: LinkedIn
 ---
 
