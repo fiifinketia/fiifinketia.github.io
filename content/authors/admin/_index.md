@@ -91,7 +91,7 @@ work:
     company_logo: ''
     date_start: 2022-04
     date_end: 2023-08
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Led the integration of Web3 and EthersJS, securing over $2M worth of Ethereum transactions by enabling secure, transparent interactions with blockchain.
       - Optimized user experience by developing responsive web pages in Vue.js, leading to a 30% increase in user retention across mobile devices.
@@ -102,7 +102,7 @@ work:
     company_logo: ''
     date_start: 2020-08
     date_end: 2022-02
-    summary: |
+    summary: |3-
       Responsibilities include:
       - Modernized legacy NodeJs/TypeScript architecture to a serverless framework, improving scalability and reducing operational costs by 20%.
       - Integrated various eCommerce platforms into the product, empowering over 150 businesses to track and manage online stores, increasing platform adoption by 25%.
