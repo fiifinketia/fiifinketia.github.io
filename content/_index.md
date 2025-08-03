@@ -35,13 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research student in the HCI team at the University of Ghana, and my mission is to empower Akan speakers with speech impairments through innovative technology. I'm developing a speech-to-speech system that helps people communicate clearly and naturally, breaking down communication barriers and fostering greater inclusion. 
-        
-        My work blends machine learning, deep learning, and advanced speech processing to tackle real-world challenges, and I share my insights on these topics through my blog.
-        
-        I combine both qualitative and quantitative methods to explore how science and technology can drive economic and social progress. If you're passionate about using tech to make a difference, I'd love to connect and collaborate.
-        
-        Feel free to reach out!
+        I’m a research student in the Human-Computer Interaction (HCI) group at the University of Ghana, working at the intersection of speech technology, accessibility, and local language AI. My research focuses on developing speech-to-speech systems to support Akan speakers with speech impairments—enabling more natural, intelligible, and inclusive communication. My work integrates machine learning, deep learning, and advanced speech processing to address real-world challenges in low-resource linguistic settings. I document key insights, tools, and findings through my blog to support other researchers and developers working in similar domains. I apply quantitative research methods to investigate how language technologies can advance economic and social inclusion, particularly across underrepresented communities. If you're exploring similar questions or building related tools, I’d love to connect and collaborate.
+        Let’s build something meaningful together—feel free to reach out!
+
     design:
       columns: '1'
   # - block: collection
