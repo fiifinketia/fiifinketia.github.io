@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:kelvin@bytlabs.tech'
+    url: 'mailto:fiifi@vztd.xyz'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/fiifinketia
@@ -73,6 +73,20 @@ education:
       - Software Engineering
       - Computer Vision
 work:
+  - position: Research Assistant – Human-Computer Interaction (HCI)
+    company_name: Human-Computer Interaction Lab, University of Ghana
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-10-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Spearheaded the design and implementation of multilingual neural Text-to-Speech (TTS) architectures for Akan and other African languages, targeting low-resource healthcare and accessibility use cases, including maternal health applications.
+      - Engineered scalable speech data acquisition pipelines across multiple African countries, incorporating automated quality control, metadata standardization, and integration with cloud storage solutions.
+      - Developed modular audio preprocessing and segmentation tools using Python (Pydub, NumPy, IPython widgets), enabling rapid annotation and boosting dataset preparation throughput by over 60%.
+      - Conducted experimental research on prosodic feature modeling abd multi-speaker adaptation in low-resource African language scenarios.
+      - Built RESTful NLP APIs using FastAPI and integrated evaluation interfaces to deploy TTS/ASR models with real-time inference, speaker evaluation, and performance tracking pipelines.
+
   - position: Software Engineer - Full Stack
     company_name: Data Intelligence and Swarm Analytics Laboratory 
     company_url: ''
@@ -185,6 +199,8 @@ skills:
 
 languages:
   - name: English
+    percent: 100
+  - name: Akan
     percent: 100
 
 # Awards.
