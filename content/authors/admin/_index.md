@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Software Engineer
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: DISAL
+  - name: DCS HCI Lab
     url: #
 
 # Social network links
@@ -206,4 +206,4 @@ awards:
 
 ## About Me
 
-Senior Software Engineer with 4+ years of experience in full-stack development, data science, and artificial intelligence. Expertise in building scalable backend systems, machine learning models, and generative AI tools. Proven track record in delivering solutions that drive business impact, including personalized recommendation systems, semantic search engines, and agentic workflows. Skilled in Python, ML algorithms, and cloud services, with a strong focus on AI-driven products and large-scale systems.
+Ghanaian AI researcher and software engineer with over five years of experience building scalable systems across eCommerce, blockchain, and AI research enablement. I have contributed to projects such as UGSpeech Data, Kasa Tutor, and TTS models focused on African languages, working at institutions like WiV Technologies, Chatdaddy, Data Intelligence and Swarm Analytics Lab, and the HCI Lab at the University of Ghana Department of Computer Science. Currently pursuing an MSc in Computer Science at the University of Ghana, I specialize in Natural Language Processing, Human-Computer Interaction, and Text-to-Speech systems for low-resource and tonal languages. I am deeply involved in academic research, speech dataset development, and community-centered AI projects. My goal is building inclusive, explainable, and culturally aware AI systems that reflect the linguistic diversity of the African continent—especially in health, education, and public service applications.
