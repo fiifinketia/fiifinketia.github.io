@@ -54,8 +54,8 @@ interests:
 education:
   - area: Masters of Science in Computer Science
     institution: University of Ghana
-    date_start: 2024-01-09
-    date_end: 2025-01-09
+    date_start: '2024-09-01'
+    date_end: '2025-09-01'
     summary: |
       Courses included:
       - Advanced Algorithms and Data Structures
@@ -64,8 +64,8 @@ education:
       - Advanced Computer Vision
   - area: BSc Computer Science
     institution: University of Ghana
-    date_start: 2019-02-09
-    date_end: 2023-31-09
+    date_start: '2019-09-02'
+    date_end: '2023-09-31'
     summary: |      
       Courses included:
       - Algorithms and Data Structures
